@@ -12,8 +12,7 @@
 - 💬 Ask me about **Python, Django, ML, DL**
 - 📫 How to reach me **rprakashdass@gmail.com**
 - 👨‍💻 All of my projects are available at **https://rprakashdass.github.io/rprakashdass/**
-- 📝 I regularly write articles on **https://github.io/prakashdassr/blogs**
-- 📄 Know about my experiences **https://www.linkedin.com/in/prakash-rr/**
+- 📄 Know about my experiences **https://www.linkedin.com/in/rprakashdass/**
 - ⚡ Fun fact **Join my crew**
 
 <div> <a href="https://twitter.com/rprakashdass" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
