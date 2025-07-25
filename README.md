@@ -1,74 +1,110 @@
 <img src="https://github.com/BEPb/BEPb/blob/main/src/header_.png" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Prakash Dass</h1>
-<h3 align="center">Aspiring Software Developer | DSA & Leetcode | Full Stack Dev</h3>
+<h3 align="center">Backend & Systems Engineer | C++, Go | Distributed Systems & API Design</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rprakashdass&label=Profile%20views&color=0e75b6&style=flat" alt="rprakashdass" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rprakashdass&theme=tokyonight" alt="rprakashdass" /></a> </p>
 
+---
 
+### 🚀 About Me
 
-### 👨‍💻 About Me
-- 📂 **Portfolio:** [rprakashdass.in](https://rprakashdass.in/)
-- 🔭 **Currently Working On:** TypeScript for full-stack applications.
-- 👯 **Looking to Collaborate On:** Full Stack and DSA projects.
-- 🌱 **Learning:** DSA and Full Stack Development.
-- 💬 **Ask Me About:** Software products, system design, and coding best practices.
-- 🤝 **Open to Open Source Contributions.**
-- 📫 **Reach Me At:** rprakashdass@gmail.com
-- 📄 **LinkedIn:** [linkedin.com/in/rprakashdass](https://www.linkedin.com/in/rprakashdass/)
-- ⚡ **Fun Fact:** Let’s build something amazing together!
+Final-year engineering student passionate about building **high-performance backend infrastructure**. I specialize in **systems programming**, **concurrent applications**, and **distributed systems** using C++ and Go. My focus is on solving complex challenges in low-level optimization and scalable architecture.
 
+- 🔧 **Currently Building:** Distributed key-value store with Raft consensus algorithm
+- 💻 **Core Expertise:** Systems Programming, Concurrent Programming, API Design
+- 🎯 **Focus Areas:** Backend Infrastructure, Distributed Systems, Performance Optimization
+- 🌱 **Learning:** Advanced Systems Design, Cloud Architecture
+- 💼 **Open to:** Backend SDE roles, Systems Engineering positions
+- 📫 **Contact:** rprakashdass@gmail.com
+- 🌐 **Portfolio:** [rprakashdass.in](https://rprakashdass.in/)
 
-</div><h3 align="left">Connect with me:</h3>
+---
+
+### 🛠️ Core Technologies
+
+**Languages & Systems:**
+- **C++** (STL, Smart Pointers, POSIX APIs)
+- **Go** (Goroutines, Channels, Concurrency)
+- **SQL** (MySQL, Query Optimization)
+
+**Backend & Infrastructure:**
+- **REST API Design** & Implementation
+- **Distributed Systems** (Raft Consensus)
+- **Concurrent Programming** & Socket Programming
+- **Redis** (Caching, Pub/Sub)
+- **Docker** & CI/CD
+
+---
+
+### 🔥 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🚀 [High-Performance C++ Web Server](https://github.com/rprakashdass/nanohost)
+**Systems Programming | Concurrency**
+
+- Built a **POSIX-compliant** C++ web server framework from scratch
+- Implemented **concurrent HTTP/1.1** server with thread pooling
+- Features dynamic routing, static file serving, and **non-blocking I/O**
+- Lightweight alternative to Express.js in C++
+
+**Tech:** `C++` `Socket Programming` `POSIX APIs` `Multithreading`
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚡ [Distributed Key-Value Store](https://github.com/rprakashdass/key-value-store)
+**Go | Distributed Systems**
+
+- Engineered **thread-safe** in-memory KV store with Redis-like features
+- Implemented **TTL expiry**, atomic **CAS operations**, and pipelined requests
+- Built **3-node distributed cluster** using **Raft consensus algorithm**
+- Handles network partitions and leader election
+
+**Tech:** `Go` `Raft Algorithm` `Distributed Systems` `Concurrency`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://www.leetcode.com/rprakashdass" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="rprakashdass" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/rprakashdass" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="rprakashdass" height="30" width="40" /></a><a href="https://www.hackerrank.com/rprakashdass" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="rprakashdass" height="30" width="40" /></a>
-    <a href="https://kaggle.com/rprakashdass" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="rprakashdass" height="30" width="40" /></a>
-  <a href="https://instagram.com/rprakashdass" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="rprakashdass" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rprakashdass" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/rprakashdass" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="mailto:rprakashdass@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="30" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/django.svg" alt="Django" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+### 📊 GitHub Statistics
 
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rprakashdass"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rprakashdass" /></a></p><br><br>
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rprakashdass&layout=compact&theme=transparent" alt=rprakashdass />
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rprakashdass&theme=transparent" alt="rprakashdass" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/rprakashdass">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rprakashdass&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rprakashdass&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rprakashdass&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rprakashdass&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rprakashdass&theme=2077" height="180em" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rprakashdass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rprakashdass&layout=compact&theme=tokyonight"/>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rprakashdass&theme=github-compact"/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rprakashdass&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rprakashdass&theme=tokyo-night"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
